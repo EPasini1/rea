@@ -39,6 +39,7 @@ test-results.xml
 test-timings.json
 .turbo/
 .cache/
+/tests/fixtures/nativeaot/obj/
 docs/.vitepress/cache/
 docs/.vitepress/dist/
 
